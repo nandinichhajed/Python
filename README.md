@@ -1,2 +1,2 @@
 # Python
-codes created while learning python
+Codes created while learning and implimenting python
