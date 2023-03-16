@@ -1,11 +1,11 @@
-myDOne = {
+myFunc = {
     "playerOne": "LeBron",
     "playerTwo": "Jordan",
     "playerThree": "Kobe"
 }
 
-print(myDOne)
-print(myDOne["playerTwo"])
+print(myFunc)
+print(myFunc["playerTwo"])
 
-print(myDOne.keys())
-print(myDOne.values())
+print(myFunc.keys())
+print(myFunc.values())

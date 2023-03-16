@@ -1,5 +1,3 @@
-
-
 bankAccount = 12223445
 
 score = 23323
