@@ -13,7 +13,7 @@ print("Your loop ends here")
 #
 # while user == 1:
 #     myI = int(input("Enter a number: "))
-#     print("NUmber is:", myI)
+#     print("Number is:", myI)
 #
 # print("Loop ends")
 

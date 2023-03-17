@@ -2,7 +2,7 @@ bankAccount = 12223445
 
 score = 23323
 highScore = 334545
-winnerName = "Hitesh"
+winnerName = "nandini"
 winnerScore = 344
 
 # and	exec	not

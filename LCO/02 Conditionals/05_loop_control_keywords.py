@@ -1,36 +1,35 @@
+# Break keyword
+list_numbers = [1, 3, 5, 33, 55, 67, 8, 99, 555]
 
-# TODO Break keyword
-# list_numbers = [1, 3, 5, 33, 55, 67, 8, 99, 555]
-#
-# user_input = int(input("Enter a value: "))
-#
-# for ln in list_numbers:
-#     if ln == user_input:
-#         print("We got a match")
-#         break
-# else:
-#     print("NO match")
-#
-# print("Hey I am outside the for loop")
+user_input = int(input("Enter a value: "))
 
+for ln in list_numbers:
+    if ln == user_input:
+        print("We got a match")
+        break
+else:
+    print("NO match")
 
-# for l in "HelloWorld":
-#     if l == 'o':
-#         break
-#     print("value is: ", l)
-
-#TODO Continue keyword
-
-# for l in "HelloWorld":
-#     if l == 'o':
-#         continue
-#     print("value is: ", l)
+print("Hey I am outside the for loop")
 
 
-# TODO pass keyword
+for l in "HelloWorld":
+    if l == 'o':
+        break
+    print("value is: ", l)
 
-# for l in "HelloWorld":
-#     if l == 'o':
-#         pass
-#         print("I will do this later")
-#     print("value is: ", l)
+# Continue keyword
+
+for l in "HelloWorld":
+    if l == 'o':
+        continue
+    print("value is: ", l)
+
+
+# pass keyword
+
+for l in "HelloWorld":
+    if l == 'o':
+        pass
+        print("I will do this later")
+    print("value is: ", l)

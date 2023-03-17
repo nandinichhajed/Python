@@ -20,7 +20,7 @@ str = "HelloWorld!"
 # print(str[3:5])
 # print(str[3:])
 #
-# print(str + " hitesh")
+# print(str + " nandini")
 
 x = input("One: ")
 y = input("Two: ")
